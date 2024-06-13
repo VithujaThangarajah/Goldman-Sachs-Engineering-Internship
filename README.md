@@ -1,4 +1,4 @@
-Goldman Sachs Engineering Internship
+Goldman Sachs Software Engineering Internship
 
 Overview
 
